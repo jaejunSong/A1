@@ -8,6 +8,8 @@ import threading
 import math
 import time
 
+# is it ok?
+
 from gazebo_msgs.msg import ModelState
 from gazebo_msgs.msg import ModelStates
 
